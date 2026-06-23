@@ -1,5 +1,28 @@
-# 💫 About Me:
-Hii 👋 I'm MD AFFAN ANWAR<br><br>✨ About Me:<br>I'm currently working as a Front-End Developer and learning React.js and Node.js.<br>I am also a Java Full Stack Developer who enjoys building modern web applications.<br>
+# 💫 About Me
+
+Hi 👋 I'm **MD Affan Anwar**
+
+💻 I'm a **Frontend Developer** who enjoys building modern, responsive, and user-friendly web applications.
+
+🌱 Currently improving my skills in **React.js, Redux Toolkit, Node.js, and Java Full Stack Development**.
+
+## 🚀 Frontend Developer Skills
+
+* **HTML5**
+* **CSS3**
+* **JavaScript (ES6+)**
+* **React.js**
+* **Redux Toolkit**
+* **Bootstrap**
+* **Tailwind CSS**
+* **Responsive Web Design**
+* **REST API Integration**
+* **Git and GitHub**
+* **Vite**
+* **Figma**
+* **Axios**
+
+🎯 I'm looking for an opportunity to grow as a **Frontend Developer**, work on real-world projects, and contribute to a development team.
 
 
 ## 🌐 Socials:
