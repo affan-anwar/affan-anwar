@@ -1,0 +1,47 @@
+<svg viewBox="0 0 720 190" xmlns="http://www.w3.org/2000/svg">
+<defs><clipPath id="r3"><rect width="720" height="190" rx="16"/></clipPath></defs>
+<g clip-path="url(#r3)">
+<rect width="720" height="190" fill="#0d0620"/>
+<g transform="translate(20,20)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.20s" fill="freeze"/>
+  <rect width="130" height="150" rx="12" fill="#160a28" stroke="#ff6ec7" stroke-width="1.5"/>
+  <text x="65" y="40" font-family="Consolas,Monaco,monospace" font-size="13" fill="#e9c6ff" text-anchor="middle">Commits</text>
+  <text x="65" y="90" font-family="Consolas,Monaco,monospace" font-size="30" font-weight="bold" fill="#ff6ec7" text-anchor="middle">A</text>
+  <rect x="0" y="-150" width="130" height="60" fill="#ffffff" opacity="0.15" transform="skewX(-20)">
+    <animate attributeName="y" values="-150;150" dur="2.5s" begin="1.5s" repeatCount="indefinite"/>
+  </rect>
+</g><g transform="translate(160,20)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.38s" fill="freeze"/>
+  <rect width="130" height="150" rx="12" fill="#160a28" stroke="#c264e8" stroke-width="1.5"/>
+  <text x="65" y="40" font-family="Consolas,Monaco,monospace" font-size="13" fill="#e9c6ff" text-anchor="middle">Stars</text>
+  <text x="65" y="90" font-family="Consolas,Monaco,monospace" font-size="30" font-weight="bold" fill="#c264e8" text-anchor="middle">B+</text>
+  <rect x="0" y="-150" width="130" height="60" fill="#ffffff" opacity="0.15" transform="skewX(-20)">
+    <animate attributeName="y" values="-150;150" dur="2.5s" begin="1.8s" repeatCount="indefinite"/>
+  </rect>
+</g><g transform="translate(300,20)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.56s" fill="freeze"/>
+  <rect width="130" height="150" rx="12" fill="#160a28" stroke="#8a5cff" stroke-width="1.5"/>
+  <text x="65" y="40" font-family="Consolas,Monaco,monospace" font-size="13" fill="#e9c6ff" text-anchor="middle">PRs</text>
+  <text x="65" y="90" font-family="Consolas,Monaco,monospace" font-size="30" font-weight="bold" fill="#8a5cff" text-anchor="middle">A-</text>
+  <rect x="0" y="-150" width="130" height="60" fill="#ffffff" opacity="0.15" transform="skewX(-20)">
+    <animate attributeName="y" values="-150;150" dur="2.5s" begin="2.1s" repeatCount="indefinite"/>
+  </rect>
+</g><g transform="translate(440,20)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.74s" fill="freeze"/>
+  <rect width="130" height="150" rx="12" fill="#160a28" stroke="#5aa9ff" stroke-width="1.5"/>
+  <text x="65" y="40" font-family="Consolas,Monaco,monospace" font-size="13" fill="#e9c6ff" text-anchor="middle">Repos</text>
+  <text x="65" y="90" font-family="Consolas,Monaco,monospace" font-size="30" font-weight="bold" fill="#5aa9ff" text-anchor="middle">B</text>
+  <rect x="0" y="-150" width="130" height="60" fill="#ffffff" opacity="0.15" transform="skewX(-20)">
+    <animate attributeName="y" values="-150;150" dur="2.5s" begin="2.4s" repeatCount="indefinite"/>
+  </rect>
+</g><g transform="translate(580,20)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.92s" fill="freeze"/>
+  <rect width="130" height="150" rx="12" fill="#160a28" stroke="#7CFC9A" stroke-width="1.5"/>
+  <text x="65" y="40" font-family="Consolas,Monaco,monospace" font-size="13" fill="#e9c6ff" text-anchor="middle">Followers</text>
+  <text x="65" y="90" font-family="Consolas,Monaco,monospace" font-size="30" font-weight="bold" fill="#7CFC9A" text-anchor="middle">C+</text>
+  <rect x="0" y="-150" width="130" height="60" fill="#ffffff" opacity="0.15" transform="skewX(-20)">
+    <animate attributeName="y" values="-150;150" dur="2.5s" begin="2.7s" repeatCount="indefinite"/>
+  </rect>
+</g>
+</g>
+</svg>
