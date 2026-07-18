@@ -63,7 +63,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://affan-anwar.github.io/affan-dev-react-portfolio)
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=affan-anwar&icon=0&color=0">
+  <img src="https://komarev.com/ghpvc/?username=affan-anwar&color=ff6ec7&style=flat-square&label=Profile+Views"/>
 </p>
 
 <p align="center">Always learning, always building ❤️</p>
