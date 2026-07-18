@@ -16,8 +16,6 @@
 
 <g>
   <!-- swing group: drop-in then damped pendulum sway forever -->
-  <animateTransform xlink:href="#swingGroup" attributeName="transform" type="rotate"
-    values="0 160 20; 0 160 20" begin="0s" dur="0.01s"/>
   <g id="swingGroup" transform="rotate(0 160 20)">
     <animateTransform attributeName="transform" type="rotate"
       values="0 160 20;-14 160 20;10 160 20;-7 160 20;5 160 20;-3 160 20;2 160 20;0 160 20"
