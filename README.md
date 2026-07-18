@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Md Affan Anwar</h1>
-<h3 align="center">Frontend Developer | React.js | JavaScript (ES6+)</h3>
-<p align="center">Building fast, responsive, user-friendly web apps ✨</p>
+<div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md%20Affan%20Anwar&fontSize=45&fontColor=fff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20JavaScript&descAlignY=60&descSize=18)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Consolas&size=32&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Md+Affan+Anwar+%F0%9F%91%8B;Frontend+Developer;React.js+%7C+JavaScript+(ES6%2B);Building+fast%2C+responsive+web+apps)
+
+<img src="https://github.com/affan-anwar.png" width="150" style="border-radius:50%;border:4px solid #ff6ec7;">
+
+<br>
+
+<img src="https://img.shields.io/badge/Code%20is%20art%2C%20Logic%20is%20my%20superpower-000?style=for-the-badge&logo=quicklook&logoColor=ff9ff0&color=1a0b2e"/>
+
+</div>
 
 ---
 
-### 🔭 Currently
-- Full Stack Software Development Intern @ **Middlebox Solutions Pvt Ltd**, Bengaluru
-- Sharpening **React.js, Redux Toolkit, TypeScript, Next.js**
-- Actively looking for **Frontend Developer** roles
-
----
-
-### 🚀 Tech Stack
+### 🧠 Tech I Know
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,18 +30,25 @@
 
 ---
 
-### 🌟 Featured Projects
-
-| Project | Tech | Live |
-|---|---|---|
-| SkyCast – Weather App | React, Vite, Tailwind | [Visit](https://affan-anwar.github.io/skycast-weather-app) |
-| WorkMate – Task Manager | React, Hooks, LocalStorage | [Visit](https://affan-anwar.github.io/WORKMATE) |
-| Zomato Clone | HTML5, CSS3, JS | [Visit](https://affan-anwar.github.io/zomato-web-app) |
-| Personal Portfolio | React, Vite, Formspree | [Visit](https://affan-anwar.github.io/affan-dev-react-portfolio) |
+### 💖 About Me
+- 🔭 I build responsive, user-friendly web experiences with **React.js**
+- 🌱 Always learning, always building — currently sharpening **Next.js, TypeScript, Redux Toolkit**
+- 🎯 Turning ideas into real world solutions, actively open to **Frontend Developer** roles
 
 ---
 
-### 📊 GitHub Stats
+### 🌟 My Creations
+
+| Project | Tech | ⭐ |
+|---|---|---|
+| [SkyCast – Weather App](https://affan-anwar.github.io/skycast-weather-app) | React, Vite, Tailwind | ⭐ |
+| [WorkMate – Task Manager](https://affan-anwar.github.io/WORKMATE) | React, Hooks, LocalStorage | ⭐ |
+| [Zomato Clone](https://affan-anwar.github.io/zomato-web-app) | HTML5, CSS3, JS | ⭐ |
+| [Personal Portfolio](https://affan-anwar.github.io/affan-dev-react-portfolio) | React, Vite, Formspree | ⭐ |
+
+---
+
+### 📊 GitHub Stats & Graphs
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=affan-anwar&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -50,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=affan-anwar&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=affan-anwar&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -63,14 +69,22 @@
 
 ---
 
-### 📫 Connect with Me
+### 🐍 Watch the snake eat my contributions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdaffananwar)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
+
+---
+
+### 📫 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdaffananwar2025@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdaffananwar)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codewithaffan07)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdaffananwar2025@gmail.com)
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=affan-anwar&icon=0&color=0"/>
 </p>
 
-<p align="center"><i>Always learning, always building ❤️</i></p>
+<p align="center"><i>⭐ Always learning, always building 💖</i></p>
